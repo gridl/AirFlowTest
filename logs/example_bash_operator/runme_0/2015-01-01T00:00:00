@@ -1,0 +1,2 @@
+[2016-07-29 10:18:01,172] {models.py:154} INFO - Filling up the DagBag from /Users/vsubr2/airflow/dags
+[2016-07-29 10:18:01,237] {base_executor.py:36} INFO - Adding to queue: airflow run example_bash_operator runme_0 2015-01-01T00:00:00 --local -sd DAGS_FOLDER/example_dags/example_bash_operator.py 
